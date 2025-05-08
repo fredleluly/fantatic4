@@ -1,0 +1,182 @@
+CRITICAL - 2025-02-27 14:23:23 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:23:23 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:23:24 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:23:24 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:25:28 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:25:28 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:25:28 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:25:28 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:25:32 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:26:13 --> ErrorException: Undefined variable $timsupport
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 432.
+ 1 APPPATH\Views\timsupport\index.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $timsupport', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 432)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(11): view('timsupport/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:29:07 --> ErrorException: Undefined variable $index
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 426.
+ 1 APPPATH\Views\timsupport\index.php(426): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 426)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(14): view('timsupport/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:29:13 --> ErrorException: Undefined variable $index
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 426.
+ 1 APPPATH\Views\timsupport\index.php(426): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 426)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(14): view('timsupport/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-27 14:31:37 --> ErrorException: Undefined variable $index
+[Method: GET, Route: timsupport]
+in APPPATH\Views\timsupport\index.php on line 435.
+ 1 APPPATH\Views\timsupport\index.php(435): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php', 435)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\itsupportpln\\app\\Views\\timsupport\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('timsupport/index', [], true)
+ 5 APPPATH\Controllers\Timsupport.php(14): view('timsupport/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Timsupport->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Timsupport))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
